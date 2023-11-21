@@ -1,0 +1,17 @@
+GenericEntity {
+ ID "CFBAA4B725411E45"
+ components {
+  ActionsManagerComponent "{A29AE67FF4D82B0F}" {
+   additionalActions {
+    MZP_MagRepackAction "{5E08A281CBA53B8E}" {
+     ParentContextList {
+      "magazine"
+     }
+     UIInfo UIInfo "{5E08A281FE791568}" {
+      Name "#MZP_MagRepack_ActionName"
+     }
+    }
+   }
+  }
+ }
+}
